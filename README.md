@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratyusha kaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyusha kaki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaki-naga-venkata-appala-lakshmi-pratyusha-35597a1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyusha kaki" height="30" width="40" /></a>
 <a href="https://fb.com/pratyusha kaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratyusha kaki" height="30" width="40" /></a>
 <a href="https://instagram.com/pratyusha_twin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyusha_twin2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratyusha_kaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratyusha_kaki" height="30" width="40" /></a>
